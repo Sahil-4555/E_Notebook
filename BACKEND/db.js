@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb+srv://Sahil4555:SahilSojitra@cluster0.9qbzj4j.mongodb.net/?retryWrites=true&w=majority"
+const mongoURI = "<Provide the link of Your Database here>"
 
 const connectToMongo = () => {
     mongoose.connect(mongoURI, () => {
