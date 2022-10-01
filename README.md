@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 In backend side update the link of your database in file name db.js
 Install all the require dependencies through:
-### `npm i'
+### `npm i`
 To run the project:
 ### `npm run both`
 
